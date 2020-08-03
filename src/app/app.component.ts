@@ -1,4 +1,4 @@
-import { Component,,HostListener } from '@angular/core';
+import { Component,HostListener } from '@angular/core';
 let Down_Pad = 0;
 let Right_pad = 0;
 export enum KEY_CODE {
